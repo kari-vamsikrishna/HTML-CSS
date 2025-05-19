@@ -1,2 +1,2 @@
 # HTML-CSS
-small project using only HTML and CSS
+small project using only HTML and CSS...
